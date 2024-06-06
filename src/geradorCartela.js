@@ -39,4 +39,5 @@ function cartelaPronta() {
     return cartela;  // Retorna a cartela gerada
 }
 
+
 export default cartelaPronta;  // Exporta a função cartelaPronta para uso em outros módulos
