@@ -1,5 +1,4 @@
 import mongoose from "mongoose";
-import cartelaPronta from "../geradorCartela.js";
 
 const usuarioSchema = new mongoose.Schema({
     id: {type : mongoose.Schema.Types.ObjectId},
